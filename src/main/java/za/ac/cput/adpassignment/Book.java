@@ -6,7 +6,8 @@
 package za.ac.cput.adpassignment;
 /**
  *
- * @author CPUT
+ * @author Benoly Chaadrack Boudzoumou
+ * Student Number: 219383847
  */
 public class Book {
     private String title;
