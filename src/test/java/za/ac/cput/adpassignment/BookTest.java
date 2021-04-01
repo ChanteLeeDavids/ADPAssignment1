@@ -17,7 +17,8 @@ import org.junit.jupiter.api.Timeout;
 
 /**
  *
- * @author CPUT
+ * @author Benoly Chaadrack Boudzoumou
+ * Student Number: 219383847
  */
 public class BookTest {
     private Book book1;
